@@ -15,8 +15,27 @@
   }
 
   #navbar h2 a {
+    text-decoration: none;
     font-size: 0.9rem;
     color: #4B4B4B;
     margin-right: 1.5rem;
+    text-decoration: none;
+    transition: 0.5s;
+  }
+
+  #navbar h2 span {
+    font-size: 0.9rem;
+    color: #4B4B4B;
+    margin-left: 47.8rem;
+  }
+
+  #navbar span img {
+    margin-top: 0.65rem;
+    margin-left: 0.3rem;
+  }
+ 
+
+  #navbar h2 a:hover {
+    color: #948f8f;
   }
   
