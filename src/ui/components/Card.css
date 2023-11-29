@@ -1,0 +1,49 @@
+body{
+   padding:0;
+   margin:0;
+   box-sizing: border-box;
+   background-color: #C5DFF8;
+}
+.card{
+    
+    background-color:#FDFEFF;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    bottom:100px;
+    top: 80px;
+    right: 0;
+    width:280px ;
+    height:325px ;
+    
+    border-radius: 16px;
+    
+}
+.Nome{
+    color: #717171;
+
+    font-family: Roboto Flex;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 51.5px;
+}
+.NomeFaculdade{
+    color: #7895CB;
+
+    font-family: Roboto Flex;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 51.5px;
+}
+.foto{
+    border-color: purple;
+    border-style:groove;
+    border-radius: 50%;
+    width: 184px;
+    height: 184px;
+    flex-shrink: 0;
+    
+}

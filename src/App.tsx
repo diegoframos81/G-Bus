@@ -1,6 +1,8 @@
 
 import Card from './ui/components/Card'
 import Aviso from './ui/components/Aviso'
+import BotaoPerfil from './ui/components/BotãoPerfil'
+
 function App() {
   
 
@@ -8,6 +10,7 @@ function App() {
     
     <>
     <Card />
+    <BotaoPerfil/>
     <Aviso />
     </>
     
