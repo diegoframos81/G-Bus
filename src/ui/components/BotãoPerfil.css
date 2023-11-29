@@ -1,0 +1,27 @@
+.BotãoPerfil{
+    
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 10%;
+    right:1%;
+}
+.botão{
+    width: 280px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #7895CB;
+    
+    color: #EFF3F8;
+    font-family: Roboto Flex;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+
+}
+.botão:hover{
+    background-color:#4e77c1;
+
+}
