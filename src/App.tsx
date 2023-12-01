@@ -1,7 +1,7 @@
 
 import Card from './ui/components/Card'
 import Aviso from './ui/components/Aviso'
-import BotaoPerfil from './ui/components/BotãoPerfil'
+import BotaoPerfil from './ui/components/BotaoPerfil'
 
 function App() {
   

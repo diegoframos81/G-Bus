@@ -1,0 +1,83 @@
+.Aviso{
+    background-color: #7894cb;
+    font-size:8px;
+    color: aliceblue;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    position:absolute;
+    bottom:10%;
+    top:55%;
+    right:2.3%;
+    width: 190px;
+    height: 40px;
+    margin: auto;
+    border-radius: 16px;
+    border-Style:none;
+    
+    
+}
+
+.slotAviso{
+   
+    position:absolute;
+    
+    color:aliceblue;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    display:flex;
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    border-radius:16px;
+    border-style:none;
+    
+}
+.SlotVazio1,.SlotVazio2,.SlotVazio3{
+    
+    background-color: #71717128;
+    font-size: 0;
+    position:absolute;
+    color:aliceblue;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    width: 180px;
+    height: 40px;
+    margin:auto;
+    border-style: none;
+    bottom: 10%;
+    top: 80%;
+    right: 3.3%;
+    border-radius: 6px;
+}
+.SlotVazio1{
+    position: absolute;
+    top: 170%;
+    right:2.5% ;
+}
+.SlotVazio2{
+    
+    position: absolute;
+    top:280%;
+    right:2.5% ;
+    
+}
+.SlotVazio3{
+    position: absolute;
+    top:390%;
+    right:2.5% ;
+}
+.Alert{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    position: absolute;
+    bottom:10%;
+    top:68%;
+    right:2%;
+    border-radius:16px ;
+
+
+}

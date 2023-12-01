@@ -5,54 +5,53 @@ body{
    background-color: #C5DFF8;
 }
 .card{
-    
-    background-color:#FDFEFF;
+    background-color: #FDFEFF;
     display:flex;
     align-items: center;
     flex-direction: column;
     position: absolute;
     bottom:10%;
-    top: 8%;
-    right: 2%;
-    width:250px ;
-    height:320px ;
-    margin:auto;
+    top: -20%;
+    right:2%;
+    width: 200px;
+    height: 280px;
+    margin: auto;
     border-radius: 16px;
-    
+
 }
 .Nome{
-    position: absolute;
-    top:15% ;
-    color: #717171;
-    font-family: Roboto Flex;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 51.5px;
-    position: relative;
+   top: 5%;
+   right: -15%;
+   color: #717171;
+   font-family: roboto Flex;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: 51.5px;
+   position:relative;
 }
 .NomeFaculdade{
-    position: absolute;
-    top: 10% ;
-    
-    color: #7895CB;
-    position: relative;
-    font-family: Roboto Flex;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 51.5px;
+ position:absolute;
+ top:5%;
+ right: -23%;
+ color:#7895CB ;
+ position:relative;
+ font-family: roboto Flex;
+ font-size: 16px;
+ font-style: normal;
+ font-weight: 700;
+ line-height: 51.5px;
 }
 .foto{
-    position:absolute;
-    bottom:0;
-    right:0;
-    top: 4%;
-    border-color: purple;
-    border-style:groove;
-    border-radius: 50%;
-    width: 140px;
-    height: 140px;
-    flex-shrink: 0;
-    position: relative;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: 4%;
+  border-color: purple;
+  border-style: groove;
+  border-radius: 50%;
+  width: 130px;
+  height: 130px;
+  flex-shrink: 0;
+  position:relative;
 }

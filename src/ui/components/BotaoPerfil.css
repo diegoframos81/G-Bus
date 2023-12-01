@@ -1,0 +1,24 @@
+.BotãoPerfil{
+    
+   
+}
+.botão{
+    background-color: #7894cb;
+    color:aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    bottom:10%;
+    top: 35%;
+    right:2%;
+    width: 200px;
+    height: 50px;
+    margin:auto;
+    border-radius: 16px;
+    border-style:none;
+}
+.botão:hover{
+    background-color:#4e77c1;
+
+}
