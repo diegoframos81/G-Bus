@@ -1,15 +1,12 @@
+import Button from "./ui/components/Button/Button.tsx";
 
-
-import './App.css'
-
-function App() {
+const App = () =>{
   
-
   return (
-    <>
-      
-    </>
+
+      <Button className="main-buttons" text="Reserve sua vaga"/>
   )
 }
 
 export default App
+

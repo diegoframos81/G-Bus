@@ -1,0 +1,28 @@
+.main-buttons {
+    background: #7895CB;
+    border-color: #7895CB;
+    border-radius: 16px;
+    border-style: solid;
+    color: #FFF;
+    flex-shrink: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    height: 51px;
+    line-height: normal;
+}
+
+.form-button{
+    background: #4A55A2;
+    border-color: #4A55A2;;
+    border-radius: 16px;
+    border-style: solid;
+    color: #FFF;
+    flex-shrink: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    height: 51px;
+    line-height: normal;
+    width: 233px;
+}
